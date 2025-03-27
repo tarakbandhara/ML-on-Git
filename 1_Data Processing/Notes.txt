@@ -1,0 +1,13 @@
+Sciketlearn : Class we going to use in Sciketlearn is Simpleimputer class.
+
+ColumnTransformer is used to apply different transformations to different columns of a dataset.
+
+OneHotEncoder is used to convert categorical data into a format that can be provided to machine learning algorithms to do a better job in prediction.
+
+LabelEncoder is a utility in the Scikit-learn library used for converting categorical labels into a numerical format.
+
+VVVIMP : feature scaling is to be done after model training and testing to avoid data leackage and othe unwanted things.
+
+VIMP : It is not necessary to addd feature scaling in all the models.
+
+VVVIMP : We don't have to include feature scaling to dummy variables(variables whose value we changed from country name to binary numeric number) in feature scaling.which also helps to keep the interpretibility of the model.
